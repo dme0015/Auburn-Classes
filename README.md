@@ -1,7 +1,5 @@
 # Auburn-Classes
 
 BUSI-3250
-
-COMP-3500
-
-COMP-4200
+/nCOMP-3500
+/nCOMP-4200
