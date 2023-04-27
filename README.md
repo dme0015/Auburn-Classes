@@ -1,3 +1,3 @@
 # Auburn-Classes
 
-COMP3500
+COMP-3500
