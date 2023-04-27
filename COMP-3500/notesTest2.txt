@@ -1,0 +1,5 @@
+1. Mutual Exclusion -
+Must be enforced
+	
+2. Deadlock -	
+3. Starvation -

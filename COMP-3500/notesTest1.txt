@@ -1,0 +1,58 @@
+1.On systems with
+multiple command interpreters to choose from, the interpreters are known as
+*SHELLS.
+
+2.*System Administrators who manage computers
+and *power users who have deep knowledge of a system frequently use the command-line interface.
+
+3.*System Calls provide an interface to the services made available by an operating
+system.
+
+4. *Process Contorl - A running program needs to be able to halt its execution either normally
+(end()) or abnormally (abort()).
+
+5.*debugger—a system program designed to aid
+the programmer in finding and correcting errors, or bugs—to determine the
+cause of the problem.
+
+6.*File management. These programs create, delete, copy, rename, print, list,
+and generally access and manipulate files and directories.
+
+7.*Communications. These programs provide the mechanism for creating
+virtual connections among processes, users, and computer systems. They
+allow users to send messages to one another’s screens, to browse web
+pages, to send e-mail messages, to log in remotely, or to transfer files from
+one machine to another.
+
+8.*Ported, or developed, for many operating systems
+
+9.*That is, place all of the functionality of the kernel into a single, static binary file
+that runs in a single address space. This approach—known as a monolithic
+structure—is a common technique for designing operating systems.
+
+10.*A system can be made modular in many ways. One method is the layered
+approach, in which the operating system is broken into a number of layers
+(levels). The bottom layer (layer 0) is the hardware; the highest (layer N) is the
+user interface.
+
+11. *microkernel
+approach. This method structures the operating system by removing all nonessential components from the kernel and implementing them as userlevel
+programs that reside in separate address spaces.
+
+12. Perhaps the best current methodology for operating-system design involves
+using *loadable kernel modules (LKMs). Here, the kernel has a set of core
+components and can link in additional services via modules, either at boot time
+or during run time. This type of design is common in modern implementations
+of UNIX, such as Linux, macOS, and Solaris, as well as Windows.
+
+13. *Process, which is a program
+in execution.
+
+14. • Text section—the executable code
+• Data section—global variables
+• Heap section—memory that is dynamically allocated during program run
+time
+• Stack section—temporary data storage when invoking functions (such as
+function parameters, return addresses, and local variables)
+
+15.
